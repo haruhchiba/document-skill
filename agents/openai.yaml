@@ -1,0 +1,7 @@
+interface:
+  display_name: "インターパーク 資料作成"
+  short_description: "参考スライドを選定してブランド準拠の提案資料を作成"
+  default_prompt: "Use $document-skill to create an インターパーク向け提案資料 using the local visual reference library."
+
+policy:
+  allow_implicit_invocation: true
